@@ -1,4 +1,4 @@
-## Debouncer v0.1
+## Debouncer
 This pluggin will allows you to handle debouncing of your frequent/multiple function.procedure calls.
 
 WARNING:
